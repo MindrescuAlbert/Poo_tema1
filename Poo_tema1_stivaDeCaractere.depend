@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1584317151 source:c:\users\albert\info\poo_tema1_stivadecaractere\main.cpp
+	<iostream>
+	"Nod.h"
+	"Stiva_de_caractere.h"
+
+1584311374 c:\users\albert\info\poo_tema1_stivadecaractere\nod.h
+
+1584313253 source:c:\users\albert\info\poo_tema1_stivadecaractere\nod.cpp
+	"Nod.h"
+	<iostream>
+
+1584316941 c:\users\albert\info\poo_tema1_stivadecaractere\stiva_de_caractere.h
+	"Nod.h"
+	<istream>
+	<ostream>
+
+1584317147 source:c:\users\albert\info\poo_tema1_stivadecaractere\stiva_de_caractere.cpp
+	"Stiva_de_caractere.h"
+	<iostream>
+	<cstring>
+
